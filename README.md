@@ -1,3 +1,3 @@
 # PNCP_Webscraping
 
-Endpoint: http://127.0.0.1:5000/microtecnica/pncp/licitacoes
+Endpoint: http://200.195.226.98:5000/microtecnica/pncp/licitacoes
